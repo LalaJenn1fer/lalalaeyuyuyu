@@ -11,11 +11,10 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar do Labubu" class="rounded-circle" width="150" height="150" srcset="">
+        <img src="img/avatar-perfil.png" alt="avatar de lala" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Hayato_</p>
         <h1>Eu ensino artes</h1>
-        <p>Sou Aluno e babá em tempo regular. Ensino pensamento critico para estudantes do Ensino
-            Fundamental. Ensino sobre pensamento usando jogos, filmes e desenhos. Veja os projetos
+        <p>Sou Aluna no periodo integral e na parte da tarde, gosto de fazer edição de vídeos. Veja os projetos
             que já desenvolvi!</p>
 
         <p>Minhas habilidades</p>
